@@ -1,3 +1,0 @@
-wonderwords
-confluent-kafka==2.0.2
-textblob
